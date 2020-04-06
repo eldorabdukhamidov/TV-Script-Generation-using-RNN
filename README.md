@@ -8,12 +8,12 @@ In this project, you can learn to generate your own Seinfeld TV scripts using RN
 
 - **NumPy** - a fundamental package for scientific computing in python
 - **Pandas** - an ease-to-use python library for manipulating data structures and performing data analysis
-- **Jupyter Notebook** - tool that allows the creation of documents with live code
+- **Jupyter Notebook** - a tool that allows the creation of documents with live code
 - **Matplotlib** - a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 - **torch** - an open source machine learning library
 
 ## Download Datasets
-Download the [Seinfeld dataset](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv). Unzip the folder and place it in this project's home directory, at the location */data*.
+Download the [Seinfeld dataset](https://www.kaggle.com/thec03u5/seinfeld-chronicles#scripts.csv). Place the file in this project's home directory, at the location */data*.
 
 ## Instruction
 
